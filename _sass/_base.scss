@@ -438,7 +438,12 @@ ul.task-list input[type="checkbox"] {
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
-
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: block; // Ensure the footer spans the bottom
+  z-index: 10; // Ensure it's on top of other elements if necessary
+  
   .container {
     color: var(--global-footer-text-color);
     padding-top: 9px;
@@ -456,16 +461,43 @@ footer.fixed-bottom {
   }
 }
 
+// Sticky Bottom Footer (only used if content overflows)
 footer.sticky-bottom {
-  border-top: 1px solid var(--global-divider-color);
-  padding-top: 40px;
-  padding-bottom: 40px;
-  font-size: 0.9rem;
-
+  padding-top: 9px;
+  padding-bottom: 8px;
+  font-size: 0.75rem;
+  position: relative; // Allows footer to flow with page content
+  width: 100%;
+  
   .container {
     text-align: center;
   }
 }
+
+// Layout Utility for Handling Footer Behavior
+html, body {
+  height: 100%; // Ensure the viewport is 100% height
+  margin: 0;
+  display: flex;
+  flex-direction: column; // Allows stacking of header, content, and footer
+}
+
+body > *:not(footer) {
+  flex: 1; // Content takes available space, pushing the footer down
+}
+
+// Footer visibility toggle based on content
+footer {
+  &.fixed-bottom {
+    @media (min-height: calc(100vh - 1px)) { // Approximation for visibility toggle
+      position: fixed; // Sticks to bottom only when content doesn't overflow
+    }
+  }
+  &.sticky-bottom {
+    position: static;
+  }
+}
+
 
 // CV
 
