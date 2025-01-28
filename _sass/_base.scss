@@ -1337,3 +1337,49 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+/* Button for publications */
+
+.custom-button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-decoration: none;
+  border-radius: 2px;
+  
+  // Default light mode button styles using CSS custom properties
+  background-color: var(--global-theme-color);  // Use theme color for background
+  color: var(--global-hover-text-color);        // Use hover text color for text
+  
+  // Hover effect using custom properties
+  &:hover {
+    background-color: var(--global-hover-color); // Hover background color
+    color: var(--global-hover-text-color);       // Hover text color
+  }
+
+  // Dark mode styles (if your theme uses the `data-theme="dark"`)
+  @media (prefers-color-scheme: dark) {
+    background-color: var(--global-theme-color);  // Same theme color for dark mode
+    color: var(--global-hover-text-color);        // Same hover text color for dark mode
+    
+    &:hover {
+      background-color: var(--global-hover-color); // Hover background color for dark mode
+      color: var(--global-hover-text-color);       // Hover text color for dark mode
+    }
+  }
+}
+
+/* Publication blog to handle computer and mobile browsers */
+
+@media (max-width: 768px) {
+    /* Apply changes when the screen size is less than or equal to 768px */
+    .publication-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .publication-container img {
+        margin-bottom: 15px;  /* Adds space below the image when stacked */
+    }
+}
