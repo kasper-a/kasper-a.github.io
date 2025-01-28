@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I am a PhD student in the Department of Politics and International Studies at the University of Warwick, working within the fields International Political Economy and International Relations. I am generally interested in international ordering, economic inequality, and everyday life.
+Hi! I am a PhD student in the Department of Politics and International Studies at the University of Warwick, working within the fields International Political Economy and International Relations. I am generally interested in international order, hegemonic projects, economic inequality, and everyday life.
 
 These themes come together in my doctoral research which focuses on everyday perceptions of intra-state inequality and their relationship with the broader international system. More specifically, I am interested in whether non-elite experiences of economic polarization within a hegemon influence its ability to act as the primary regulator of the liberal international order. Exploring this question, my research revolves around the hegemonic transition from Pax Britannica to Pax Americana, as I aim to contribute to the literature on the outward effects of domestic intra-state dynamics on hegemony and the stability of world order.
 
