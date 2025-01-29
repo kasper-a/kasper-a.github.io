@@ -25,7 +25,7 @@ nav_order: 2
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 15px;">
     <a href="https://doi.org/10.1080/09692290.2024.2401432" target="_blank" 
        class="custom-button">
-        Read full paper here
+        Read the full paper here
     </a>
 </div>
 
