@@ -12,8 +12,8 @@ profile:
       <a href="mailto:kasper.arabi@warwick.ac.uk">Email</a><br>
       <a href="https://scholar.google.dk/citations?user=qAvCiSEAAAAJ">Google Scholar</a><br>
       <a href="https://orcid.org/0000-0003-2003-1595">ORCiD</a><br>
-      <a href="https://bsky.app/profile/kasperarabi.bsky.social">Bluesky</a>
-      <a href="https://warwick.ac.uk/fac/soc/pais/people/arabi/">University profile</a>
+      <a href="https://bsky.app/profile/kasperarabi.bsky.social">Bluesky</a><br>
+      <a href="https://warwick.ac.uk/fac/soc/pais/people/arabi/">University profile</a><br>
     </div>
 
 news: false # includes a list of news items
