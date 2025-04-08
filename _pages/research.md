@@ -32,7 +32,7 @@ nav_order: 2
 <h4 style="margin-bottom: 20px; margin-top: 25px;">Work in progress</h4>
 
 **Susan Strange meets the everyday: the mundane sources of structural power** <br> 
-*Revise and resubmit, Review of International Studies*
+*Revised and resubmitted, Review of International Studies*
 
 **Destabilizing perceptions of inequality: how economic polarization influenced the demise of the gold standard** <br> 
 *Working paper*
