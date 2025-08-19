@@ -21,12 +21,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I am a PhD student in the Department of Politics and International Studies at the University of Warwick, working within the fields International Political Economy and International Relations. I am generally interested in international order, hegemonic projects, economic inequality, and everyday life.
+Hi! I am a PhD student in the Department of Politics and International Studies at the University of Warwick, working within the fields of Political Economy and International Relations. I am generally interested in economic inequality, state selectivities, hegemonic projects, and world order.
 
-These themes come together in my doctoral research which focuses on everyday perceptions of intra-state inequality and their relationship with the broader international system. More specifically, I am interested in whether non-elite experiences of economic polarization within a hegemon influence its ability to act as the primary regulator of the liberal international order. Exploring this question, my research revolves around the hegemonic transition from Pax Britannica to Pax Americana, as I aim to contribute to the literature on the outward effects of domestic intra-state dynamics on hegemony and the stability of world order.
+These themes come together in my doctoral research which focuses on everyday perceptions of intra-state inequality and their relationship with the broader international system. More specifically, I am interested in whether non-elite experiences of economic polarization within a hegemon influence its ability to act as the primary regulator of the liberal international order. Exploring this question, my research revolves around the hegemonic transition from Pax Britannica to Pax Americana, and I aim to contribute to the literature on the outward effects of domestic intra-state dynamics, such as specific configurations of state selectivities and business-government-society relations, on hegemony and the stability of world order.
 
 Methodologically, my research has a strong historical dimension, and I am keen to explore questions typically considered the domain of political science using archival research methods. The empirical side of my work therefore draws heavily on archival explorations in the U.S. and the U.K.
 
-My writings have recently appeared in the <a href="https://doi.org/10.1080/09692290.2024.2401432" class="blue-color" style="font-style: italic;">Review of International Political Economy</a>.
+My writings have recently appeared in the <a href="https://doi.org/10.1080/09692290.2024.2401432" class="blue-color" style="font-style: italic;">Review of International Political Economy</a>  
+and are currently forthcoming in the *Review of International Studies*.
 
 Feel free to reach out to me at [kasper.arabi@warwick.ac.uk](mailto:kasper.arabi@warwick.ac.uk).

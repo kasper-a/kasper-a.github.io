@@ -7,6 +7,30 @@ nav: true
 nav_order: 2
 ---
 
+#### **Susan Strange meets the everyday: The mundane sources of structural power** <br> 
+##### *Review of International Studies*, Accepted for publication on 24 June 2025.
+
+<div class="publication-container" style="display: flex; align-items: center; margin-top: 25px; padding-left: 20px; padding-right: 20px;">
+    <a href="https://doi.org/10.1017/S0260210525101083" target="_blank">
+        <img src="/assets/img/RIS_Susan Strange.jpg" alt="RIS Susan Strange" style="width: 200px; margin-right: 20px; border: 1px solid black; display: block; align-self: center;">
+    </a>
+    <div style="max-width: 100%; text-align: justify;">
+        <p>
+            Scholars continue to demonstrate the enduring relevance of structural power when analysing contemporary international affairs such as US–China rivalry, transformations of global finance, and the increasing significance of cyber power. Yet, in this paper, I find that the everyday foundations of structural power remain vastly unexplored. While work on structural power and everyday research might be seen as oppo- sites, I argue that there are important interactions between these two approaches to international power. Everyday forces and everyday agents constantly inform and shape structural power. This highlights a mutu- ally dependent relationship between power in the international system and the everyday. In this paper, I therefore advance a new theoretical framework that explores these links between the mundane dynamics of the everyday and world affairs. It conceptualises the state as a mediator between the two levels and stresses how a perceptual selectivity favours certain parts of the everyday over others. I illustrate the usefulness of this theoretical approach and the continued relevance of structural power by exploring how intersections between everyday life and patterns of production in parts of the US have contributed to recent disruptions to American structural power and the way it is being deployed on the international stage.
+        </p>
+    </div>
+</div>
+
+<!-- Centered button -->
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 15px;">
+    <a href="https://doi.org/10.1017/S0260210525101083" target="_blank" 
+       class="custom-button">
+        Forthcoming
+    </a>
+</div>
+
+<br> 
+
 #### **Overcoming methodological statism: new avenues for hegemony research** <br> 
 ##### *Review of International Political Economy*, 2025, 32(1), 242–257.
 
@@ -30,9 +54,6 @@ nav_order: 2
 </div>
 
 <h4 style="margin-bottom: 20px; margin-top: 25px;">Work in progress</h4>
-
-**Susan Strange meets the everyday: the mundane sources of structural power** <br> 
-*Revised and resubmitted, Review of International Studies*
 
 **Destabilizing perceptions of inequality: how economic polarization influenced the demise of the gold standard** <br> 
 *Working paper*
