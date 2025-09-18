@@ -27,7 +27,6 @@ These themes come together in my doctoral research which focuses on everyday per
 
 Methodologically, my research has a strong historical dimension, and I am keen to explore questions typically considered the domain of political science using archival research methods. The empirical side of my work therefore draws heavily on archival explorations in the U.S. and the U.K.
 
-My writings have recently appeared in the <a href="https://doi.org/10.1080/09692290.2024.2401432" class="blue-color" style="font-style: italic;">Review of International Political Economy</a>  
-and are currently forthcoming in the *Review of International Studies*.
+My writings have recently appeared in the <a href="https://doi.org/10.1080/09692290.2024.2401432" class="blue-color" style="font-style: italic;">Review of International Studies</a> and the <a href="https://doi.org/10.1080/09692290.2024.2401432" class="blue-color" style="font-style: italic;">Review of International Political Economy</a>.
 
 Feel free to reach out to me at [kasper.arabi@warwick.ac.uk](mailto:kasper.arabi@warwick.ac.uk).
