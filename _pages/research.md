@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 #### **Susan Strange meets the everyday: The mundane sources of structural power** <br> 
-##### *Review of International Studies*, 2025, 1-20.
+##### *Review of International Studies*, 2026, 52(2), 347-366.
 
 <div class="publication-container" style="display: flex; align-items: center; margin-top: 25px; padding-left: 20px; padding-right: 20px;">
     <a href="https://doi.org/10.1017/S0260210525101083" target="_blank">
