@@ -52,8 +52,3 @@ nav_order: 2
         Read the full paper here
     </a>
 </div>
-
-<h4 style="margin-bottom: 20px; margin-top: 25px;">Work in progress</h4>
-
-**Destabilizing perceptions of inequality: how economic polarization influenced the demise of the gold standard** <br> 
-*Working paper*
